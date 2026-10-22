@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://e5c7q6vk1huy"]
+
+[node name="cena_do_jogo_ex" type="Node2D" unique_id=1299044049]
+
+[node name="Label" type="Label" parent="." unique_id=274554879]
+offset_left = 573.0
+offset_top = 285.0
+offset_right = 663.0
+offset_bottom = 308.0
+text = "\\zx\\zx\\xz\\x\\"
